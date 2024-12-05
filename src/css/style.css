@@ -1,0 +1,35 @@
+/* Styling */
+.h1{
+    position: relative;
+    left: 100px;
+} 
+.nav-menu li a {  
+    text-decoration: none; 
+    background-color: cadetblue;
+    color: #000; 
+    border: 2px solid #200b6ee8; 
+    border-radius: 20px;
+    transition: background-color 0.3s ease; } 
+
+    .nav-menu li a:hover { 
+        background-color: #dc88b9;; /* Add hover effect */ }
+
+.main-container{
+    background-color: white;
+    
+}
+.container aside p{
+    text-align: justify;
+}
+footer{
+    background-color: papayawhip;
+}
+.foot p{
+    text-align: justify;
+}
+.footer-par{
+    background-color: rgb(217, 189, 144);
+}
+.float-left{
+    float:left;
+};
